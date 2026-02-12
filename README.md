@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Tshepo Ngozwana 👋
+**Junior Software Developer | ASP.NET | C# | SQL | Backend Developer**
 
-<!--
-**TshepoNgozwana/TshepoNgozwana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about building scalable and maintainable software solutions. I enjoy working on projects that integrate backend logic, databases, and frontend interfaces to solve real-world problems.
 
-Here are some ideas to get you started:
+## 🔹 Key Skills
+- ASP.NET Core & MVC
+- C#, Java, JavaScript, Python
+- SQL Server, MongoDB, Supabase
+- REST APIs, Stored Procedures, Raw SQL
+- Git, Azure, Docker, DevOps basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Featured Projects
+- **[BulkSMS System](https://github.com/TshepoNgozwana/BulkSMS-System)** – Full-stack SMS campaign management platform with layered architecture and stored procedures.
+- **[Dream Cost Calculator](https://github.com/TshepoNgozwana/Dream-Cost-Calculator)** – Dynamic cost estimation tool with clean frontend and backend calculation logic.
+
+## 🔹 Connect with Me
+- [LinkedIn](www.linkedin.com/in/tshepo-ngozwana)
+
