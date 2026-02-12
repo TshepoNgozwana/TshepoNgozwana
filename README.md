@@ -14,10 +14,6 @@ I am passionate about building scalable and maintainable software solutions. I e
 - **[BulkSMS System](https://github.com/TshepoNgozwana/BulkSMS-System)** – Full-stack SMS campaign management platform with layered architecture and stored procedures.
 - **[Dream Cost Calculator](https://github.com/TshepoNgozwana/Dream-Cost-Calculator)** – Dynamic cost estimation tool with clean frontend and backend calculation logic.
 
-## 🔹Stats
-![Tshepo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TshepoNgozwana&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TshepoNgozwana&layout=compact&theme=radical)
-
 ## 🔹 Connect with Me
 - [LinkedIn](www.linkedin.com/in/tshepo-ngozwana)
 
