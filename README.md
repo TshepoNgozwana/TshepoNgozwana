@@ -1,4 +1,4 @@
-# Hi, I'm Tshepo Ngozwana 👋
+# Hi, I'm Tshepo Ngozwana
 **Junior Software Developer | ASP.NET | C# | SQL | Backend Developer**
 
 I am passionate about building scalable and maintainable software solutions. I enjoy working on projects that integrate backend logic, databases, and frontend interfaces to solve real-world problems.
